@@ -1,4 +1,4 @@
-# Target E-commerce Analytics: Brazilian Market Deep Dive (SQL)
+# Target E-commerce Analytics (SQL)
 
 ## 🎯 Project Overview
 
